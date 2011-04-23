@@ -1,2 +1,1 @@
-first
-
+my linux is poor!
